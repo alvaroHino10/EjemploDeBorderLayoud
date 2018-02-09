@@ -22,8 +22,6 @@ public class Ventana extends JFrame {
         add(boton2, BorderLayout.CENTER);
         add(boton3, BorderLayout.SOUTH);
         add(boton4, BorderLayout.WEST);
-        add(boton5, BorderLayout.EAST);
-
-
+        //add(boton5, BorderLayout.EAST);
     }
 }
